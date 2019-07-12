@@ -1,2 +1,3 @@
-# simple_orm
+# simple_orm (sqlite - char, int)
 Test task
+
