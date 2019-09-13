@@ -1,3 +1,3 @@
 # simple-orm (sqlite - char, int)
-Test task
+Limited in time test task
 
